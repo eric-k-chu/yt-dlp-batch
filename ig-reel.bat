@@ -2,7 +2,7 @@
 
 set /p "url=Enter the URL of the Instagram reel: "
 
-set /p "res=Enter the browser you are logged in to Instagram (chrome/firefox): "
+set /p "res=Which browser are you logged into Instagram on (chrome/firefox): "
 
 echo Downloading Instagram reel from: %url%
 
